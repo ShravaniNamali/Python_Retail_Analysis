@@ -2,6 +2,7 @@
 CUSTOMER ANALYSIS FOR RETAIL : 
 
 ANALYTICS IN RETAIL:
+
 With the retail market getting more and more competitive by the day, there has never been 
 anything more important than the ability for optimizing service business processes when 
 trying to satisfy the expectations of customers. Channelizing and managing data with the 
@@ -21,6 +22,7 @@ doing forecasts of sales and future demand via predictive simulation, optimizing
 of products and offers through heat-mapping of customers and many others.
 
 DATA AVAILABILITY:
+
  Retail Data.xlsx
 o This book has three sheets (Customer, Transaction, Product Heirarchy)
 o Customer: Customers information including demographics
@@ -28,6 +30,7 @@ o Transaction: Transactions of customers
 o Product Heirarchy: Product information (cateogry, sub category etc...) 
 
 BUSINESS PROBLEM:
+
 A Retail store is required to analyze the day-to-day transactions and keep a track of its customers 
 spread across various locations along with their purchases/returns across various categories. 
 Create a report and display the below calculated metrics, reports and inferences.
